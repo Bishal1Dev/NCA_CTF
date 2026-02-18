@@ -1,0 +1,7 @@
+{
+  "promptDelete": false,
+  "useMarkdownLinks": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./NCA",
+  "newLinkFormat": "relative"
+}
