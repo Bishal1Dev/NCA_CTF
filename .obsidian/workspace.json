@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pentest/Installation.md",
+                "file": "Pentest/Two Paths.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Installation"
+              "title": "Two Paths"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pentest/Installation.md",
+                "file": "Pentest/Two Paths.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Installation"
+              "title": "Outline of Two Paths"
             }
           },
           {
@@ -191,39 +191,37 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "audio-recorder:Start/stop recording": false,
+      "publish:Publish changes...": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "90b0c92707409c63",
+  "active": "6e6a6c78e99068cb",
   "lastOpenFiles": [
+    "Pentest/The Pentester.md",
+    "Pentest/Encoded flag part 2.md",
+    "Pentest/Encoded Flag.md",
+    "Pentest/DOT (.).md",
+    "Pentest/Built-in commands.md",
     "Pentest/Installation.md",
     "Pentest/Installation.md",
     "NCA/Canvas/Pentest.canvas",
     "Pentest",
     "README.md",
-    "Pentest/DOT (.).md",
     "NCA/Canvas",
     "NCA/README.md",
     "Templates/NCA Pentest Writeup Template.md",
     "Templates",
     "Pentest/Two Paths.md",
-    "Pentest/The Pentester.md",
     "Pentest/Forgotten Past.md",
-    "Pentest/Encoded Flag.md",
-    "Pentest/DOT (.).md",
-    "Pentest/Encoded flag part 2.md",
-    "Pentest/Built-in commands.md",
     "Pentest",
     "NCA",
     "New folder",
     "Templates/NCA Pentest Writeup Template.md",
     "Pentest/Forgotten Past.md",
-    "Pentest/Encoded flag part 2.md",
-    "Pentest/Encoded Flag.md",
-    "Pentest/Built-in commands.md",
     "Canvas/Pentest.canvas",
     "Pentest/Two Paths.md",
-    "Pentest/The Pentester.md",
     "Canvas",
     "Untitled.base",
     "TaskNotes/Views/calendar-default.base",
